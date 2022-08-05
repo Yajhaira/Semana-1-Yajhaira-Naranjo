@@ -2,6 +2,6 @@
 
 ### Ejercicio de estructuras en páginas web
 
-![] (/Behance.jpeg)
+![] (Behance.jpeg)
 
 Link: https://www.behance.net/ 
